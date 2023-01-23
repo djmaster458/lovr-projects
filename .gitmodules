@@ -1,0 +1,3 @@
+[submodule "lovr"]
+	path = lovr
+	url = https://github.com/djmaster458/lovr.git
